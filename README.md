@@ -27,7 +27,7 @@ Finished
 
 #Built with Python 3.11
 
-Libraries:
+#Libraries:
 The project uses the following Python modules to build and run the app:
 
 Kivy: This is the main framework used to create the graphical user interface (GUI) for the app. It handles the layout, user interactions, and makes the app compatible with Android.
