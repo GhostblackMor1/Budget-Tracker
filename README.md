@@ -1,6 +1,8 @@
 # Budget-Tracker
 A Python-based home budget app that solves the hassle of manual tracking. It automates calculations and uses a unique design to minimize user input. The app analyzes spending, groups similar items for accuracy, and provides visual comparisons, turning a complex chore into a simple and fast task.
 
+[![Download on Google Drive](https://img.shields.io/badge/Download%20APK-Google%20Drive-green)]((https://drive.google.com/file/d/1SBVd5l2hAZ1H8OhAgzv0PWktQwH1BFny/view?usp=sharing))
+
 #Features:
 
 Automated Calculation: "The app automates all calculations, so you never have to manually tally up expenses."
@@ -40,4 +42,3 @@ os: For interacting with the file system to store and access app data.
 
 re: For text matching and processing, which helps with the "Intelligent Grouping" feature.
 
-[![Download on Google Drive](https://img.shields.io/badge/Download%20APK-Google%20Drive-green)]((https://drive.google.com/file/d/1SBVd5l2hAZ1H8OhAgzv0PWktQwH1BFny/view?usp=sharing))
