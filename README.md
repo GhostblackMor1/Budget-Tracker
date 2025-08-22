@@ -39,3 +39,5 @@ json: For saving and loading your budget data to a file.
 os: For interacting with the file system to store and access app data.
 
 re: For text matching and processing, which helps with the "Intelligent Grouping" feature.
+
+Download the latest version of the app here: [Budget-Tracker App v1.0](https://drive.google.com/file/d/1SBVd5l2hAZ1H8OhAgzv0PWktQwH1BFny/view?usp=sharing)
