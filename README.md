@@ -40,4 +40,4 @@ os: For interacting with the file system to store and access app data.
 
 re: For text matching and processing, which helps with the "Intelligent Grouping" feature.
 
-Download the latest version of the app here: [Budget-Tracker App v1.0](https://drive.google.com/file/d/1SBVd5l2hAZ1H8OhAgzv0PWktQwH1BFny/view?usp=sharing)
+[![Download on Google Drive](https://img.shields.io/badge/Download%20APK-Google%20Drive-green)]((https://drive.google.com/file/d/1SBVd5l2hAZ1H8OhAgzv0PWktQwH1BFny/view?usp=sharing))
