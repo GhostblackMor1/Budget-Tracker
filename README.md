@@ -43,9 +43,13 @@ os: For interacting with the file system to store and access app data.
 
 re: For text matching and processing, which helps with the "Intelligent Grouping" feature.
 
-<img width="384" height="610" alt="image" src="https://github.com/user-attachments/assets/3fe64899-0105-4fdd-80e7-6afecf33c539" /><img width="379" height="613" alt="image" src="https://github.com/user-attachments/assets/ae262d65-b44d-450a-bdcc-b4db90b5b7b0" /><img width="381" height="557" alt="image" src="https://github.com/user-attachments/assets/7359696f-630b-4f51-87b8-6359bdcb32dd" /><img width="379" height="608" alt="image" src="https://github.com/user-attachments/assets/346ecc1c-9b6f-483f-a36d-249f1949c996" />
-<img width="381" height="612" alt="image" src="https://github.com/user-attachments/assets/15841b62-3cb8-4144-9bba-aa45d3b597b6" />
-
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| <img width="384" height="610" alt="App Screenshot 1" src="https://github.com/user-attachments/assets/3fe64899-0105-4fdd-80e7-6afecf33c539" /> | <img width="379" height="613" alt="App Screenshot 2" src="https://github.com/user-attachments/assets/ae262d65-b44d-450a-bdcc-b4db90b5b7b0" /> |
+| Screenshot 3 | Screenshot 4 |
+| <img width="381" height="557" alt="App Screenshot 3" src="https://github.com/user-attachments/assets/7359696f-630b-4f51-87b8-6359bdcb32dd" /> | <img width="379" height="608" alt="App Screenshot 4" src="https://github.com/user-attachments/assets/346ecc1c-9b6f-483f-a36d-249f1949c996" /> |
+| Screenshot 5 |  |
+| <img width="381" height="612" alt="App Screenshot 5" src="https://github.com/user-attachments/assets/15841b62-3cb8-4144-9bba-aa45d3b597b6" /> |  |
 
 
 
